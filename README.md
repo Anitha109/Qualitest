@@ -1,0 +1,2 @@
+# Qualitest
+Web application automation
